@@ -16,3 +16,6 @@ In specifics, it has:
 
 Actually, it's for the sole purpose of practicing of the concept of OOP and MVC in a native way.
 I always tend to solve things through front-end that I tend to forget about back-end.  :sob:
+
+## Side Notes
+:exclamation: Username & Password: **admin**
